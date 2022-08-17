@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    font-family: 'Times New Roman';
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 20px;
+    width: 250px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-family: 'Times New Roman';
+}
+button{
+background:lightblue;
+width: 66px;
+padding: 10px;
+border: 2px solid black;
+border-radius: 8px;
+cursor: pointer;
+font-size: 25px;
+}
+.Calculator{
+    display: inline-block;
+    padding: 23px;
+    background-color: #ff99f7;
+    border-radius: 53px;
+}
